@@ -55,13 +55,13 @@ const config: DocsThemeConfig = {
       <span style={{ marginLeft: ".4em", fontSize: "24px", fontStyle: "black" }}>Infinity OS Documentation</span>
     </>
   ),
-  // project: {
-  //   link: "https://github.com/shuding/nextra-docs-template",
-  // },
+  project: {
+    link: "https://github.com/projectXcloud/infinityos-public-docs",
+  },
   // chat: {
   //   link: "https://discord.com",
   // },
-  // docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
+  docsRepositoryBase: "https://github.com/projectXcloud/infinityos-public-docs",
   footer: {
     text: "Infinity OS Documentation",
   },
